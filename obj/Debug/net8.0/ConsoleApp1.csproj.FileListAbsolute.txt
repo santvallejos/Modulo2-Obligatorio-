@@ -1,14 +1,29 @@
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\bin\Debug\net8.0\ConsoleApp1.exe
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\bin\Debug\net8.0\ConsoleApp1.deps.json
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\bin\Debug\net8.0\ConsoleApp1.dll
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\ConsoleApp1.dll
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\refint\ConsoleApp1.dll
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
-C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo 2 (Obligatorio)\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/bin/Debug/net8.0/ConsoleApp1.exe
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/bin/Debug/net8.0/ConsoleApp1.deps.json
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/bin/Debug/net8.0/ConsoleApp1.dll
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/bin/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/ConsoleApp1.dll
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/refint/ConsoleApp1.dll
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/Santi/Desktop/Bootcamp Devlights 3.0/.Net/Practicas/Modulo 2 (Obligatorio)/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/bin/Debug/net8.0/ConsoleApp1
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo2-Obligatorio-/obj/Debug/net8.0/ref/ConsoleApp1.dll
