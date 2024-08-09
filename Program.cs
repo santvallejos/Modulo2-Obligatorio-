@@ -51,11 +51,11 @@ void weatherForescast2()
 int[,] enterTemps()
 {
     //Matriz de 5x7 con temperatura del mes
-    return new int[,] { { 26, 25, 27, 29, 28, 32, 30 },
-                        { 26, 25, 27, 29, 28, 32, 30 }, 
-                        { 26, 25, 27, 29, 28, 32, 30 }, 
-                        { 26, 25, 27, 29, 28, 32, 30 }, 
-                        { 26, 25, 27,  0,  0,  0, 0} };
+    return new int[,] { { 13, 15, 11, 16, 20, 24, 25 },
+                        { 29, 30, 32, 32, 26, 22, 20 }, 
+                        { 19, 18, 14, 15, 15, 16, 15 }, 
+                        { 17, 21, 24, 20, 19, 24, 25 }, 
+                        { 25, 25, 26,  0,  0,  0, 0} };
 }
 
 void menu()
@@ -93,7 +93,7 @@ void tempDay(int[,] temps)
             // Obtener la temperatura del día
             int temp = temps[fila, columna];
             
-            Console.WriteLine($"\nLa temperatura del día {day} es: {temp} grados.");
+            Console.WriteLine($"\nLa temperatura del día {day} es: {temp}°.");
         }
 }
 
@@ -111,7 +111,17 @@ void averageWeeks(int[,] temps)
             sum += temps[i, j];
         }
 
-        double average = sum / 7; //Promedio por semana
+        double average; //Variable de promedio por semana sin inicializar
+
+        if (i == temps.GetLength(0) - 1)
+        {
+            average = sum / 3;
+        }
+        else
+        {
+            average = sum / 7;
+        }
+
         averageTempsWeeks.Add(average);//Lo inserta en la lista
 
         Console.WriteLine($"\nEl promedio de la semana {i + 1} es: {averageTempsWeeks[i]}");
@@ -138,7 +148,7 @@ void threshold(int[,] temps)
     Console.WriteLine("\nLas temperaturas que superaron el umbral son: ");
     foreach (var item in threshold)
     {
-        Console.WriteLine($"\n{item} ");
+        Console.WriteLine($"{item}°");
     }
 }
 
@@ -170,7 +180,7 @@ void tempsHigher(int[,] temps)
             }
         }
     
-    Console.WriteLine($"\nLa temperatura mas alta del mes es: {max}");
+    Console.WriteLine($"\nLa temperatura mas alta del mes es: {max}°");
 }
 
 void tempsLess(int[,] temps)
@@ -181,14 +191,14 @@ void tempsLess(int[,] temps)
         {
             for (int j = 0; j < temps.GetLength(1); j++)
             {
-                if (temps[i, j] < min)
+                if (temps[i, j] < min && temps[i,j] != 0)
                 {
                     min = temps[i, j];
                 }
             }
         }
 
-    Console.WriteLine($"La temperatura mas baja del mes es: {min}");
+    Console.WriteLine($"La temperatura mas baja del mes es: {min}°");
 }
 
 void generateTempNext5(int[,] temps)
@@ -198,7 +208,7 @@ void generateTempNext5(int[,] temps)
     for(int i = 1; i < 4; i++)
     {
         tempEnd++;
-        Console.WriteLine($"\nDia {i}: {tempEnd}");
+        Console.WriteLine($"Dia {i}: {tempEnd}°");
     }
-    Console.WriteLine($"\nDia 4: {tempEnd}\nDia 5: {tempEnd - 1}");
+    Console.WriteLine($"\nDia 4: {tempEnd}°\nDia 5: {tempEnd - 1}°");
 }
